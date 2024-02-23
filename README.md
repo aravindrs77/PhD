@@ -1,2 +1,2 @@
 # PhD
-Codes I wrote/improves during my PhD 
+Codes I wrote/improved during my PhD 
